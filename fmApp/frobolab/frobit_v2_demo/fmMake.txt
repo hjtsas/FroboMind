@@ -1,4 +1,5 @@
 /fmApp/frobolab/frobit_v2_demo
+/fmApp/frobolab/sick_tim3xx
 /fmSensors/global_sensing/imu/sparkfun_razor_9dof
 /fmSensors/global_sensing/imu/vectornav_vn100
 /fmProcessors/platform_processing/differential_odometry
